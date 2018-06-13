@@ -4,7 +4,6 @@ pytz
 requests>=2.0.0
 requests_ntlm==1.0.0
 pyhcl>=0.3.9,<1
-click
 ansible>=2.4.0.0,<3.0.0.0
 molecule>=0.2.9,<3.0.0
 docker-py>=1.10.6,<2.0.0
